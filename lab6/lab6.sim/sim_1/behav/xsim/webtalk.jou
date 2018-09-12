@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Apr 27 11:05:33 2018
+# Process ID: 17704
+# Current directory: C:/Users/noah/Documents/2018_spring/ee316/lab6/lab6.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/noah/Documents/2018_spring/ee316/lab6/lab6.sim/sim_1/behav/xsim/xsim.dir/tb_stopwatch_main_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/noah/Documents/2018_spring/ee316/lab6/lab6.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/noah/Documents/2018_spring/ee316/lab6/lab6.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/noah/Documents/2018_spring/ee316/lab6/lab6.sim/sim_1/behav/xsim/xsim.dir/tb_stopwatch_main_behav/webtalk/xsim_webtalk.tcl -notrace

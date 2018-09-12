@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb 23 15:48:34 2018
+# Process ID: 10044
+# Current directory: C:/Users/Noah Kessler/Documents/ee316/lab3/lab3.runs/impl_1
+# Command line: vivado.exe -log BCD_to_7segment.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source BCD_to_7segment.tcl -notrace
+# Log file: C:/Users/Noah Kessler/Documents/ee316/lab3/lab3.runs/impl_1/BCD_to_7segment.vdi
+# Journal file: C:/Users/Noah Kessler/Documents/ee316/lab3/lab3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source BCD_to_7segment.tcl -notrace
